@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
-<div alight="center">
+<div align="center">
 <p><img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="70%"  alt="" fetchpriority="high" style="max-width: 833px;"></p>
 </div>
 
@@ -38,7 +38,7 @@
 </a>
 </h1>
 
-<h1>
+<div>
 
  ### Badges
 <a href="https://github.com/reqiler" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reqiler&langs_count=15&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
