@@ -6,7 +6,7 @@
 </div>
 
 <h2>⚡About Me</h2>
-<p>I am currently a student at the Faculty of Information Technology, Udon Thani Rajabhat University. This website was created to showcase and archive my work.</p>
+<p>I am currently a student at the Faculty of Information Technology.</p>
 <ul>
   <li>Ctrl+C/Ctrl+V</li>
 </ul>
