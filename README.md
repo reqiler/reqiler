@@ -1,8 +1,7 @@
 
-<div align="center">
+
 ## Hi there 👋
 <p><img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="70%"  alt="" fetchpriority="high" style="max-width: 833px;"></p>
-</div>
 
 <h2>⚡About Me</h2>
 <p>I am currently a student at the Faculty of Information Technology, Udon Thani Rajabhat University. This website was created to showcase and archive my work.</p>
