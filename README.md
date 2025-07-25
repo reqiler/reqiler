@@ -8,7 +8,7 @@
 <h2>⚡About Me</h2>
 <p>I am currently a student at the Faculty of Information Technology, Udon Thani Rajabhat University. This website was created to showcase and archive my work.</p>
 <ul>
-  <li>Fontend Develop/UXUI design</li>
+  <li>Ctrl+C/Ctrl+V</li>
 </ul>
 <h1>
 <h4>🔭Web Development</h4>
@@ -46,7 +46,7 @@
 
 
 <!--
-**BoxDusit/BoxDusit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**reqiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
