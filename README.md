@@ -11,23 +11,11 @@
   <li>Ctrl+C/Ctrl+V</li>
 </ul>
 <h1>
-<h4>🔭Web Development</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,nodejs,express" />
-</a>
-</h1>
 
 <h1>
-<h4>📫Computer Language</h4>
+<h4>COM</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
-</a>
-</h1>
-
-<h1>
-<h4>🌱Database</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sql" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali,arch" />
 </a>
 </h1>
 
