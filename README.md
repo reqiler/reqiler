@@ -14,7 +14,7 @@
 <h1>
 <h4>COM</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali,arch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali" />
 </a>
 </h1>
 
