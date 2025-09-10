@@ -21,7 +21,7 @@
 <h1>
 <h4>💬Other</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,ae,figma" />
 </a>
 </h1>
 
