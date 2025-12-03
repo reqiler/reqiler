@@ -1,40 +1,42 @@
-<h1 align="center">Hi there 👋</h1>
+## Hi there 👋
 
 <div align="center">
-  <p>
-    <img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="70%" alt=""/>
-  </p>
+  <img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="70%" alt="Welcome GIF" style="max-width: 833px;" />
 </div>
 
 ---
 
 ## ⚡ About Me
 
-<p>I am currently a student at the Faculty of Information Technology.</p>
+I am currently a student at the Faculty of Information Technology.
 
-<ul>
-  <li>Ctrl+C/Ctrl+V</li>
-</ul>
+- Ctrl+C/Ctrl+V
 
 ---
 
 ## 🖥️ COM
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali" />
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali"
+      alt="Tech Stack"
+    />
   </a>
-</p>
+</div>
 
 ---
 
 ## 💬 Other
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ai,ps,ae,figma" />
+    <img
+      src="https://skillicons.dev/icons?i=git,github,ai,ps,ae,figma"
+      alt="Tools"
+    />
   </a>
-</p>
+</div>
 
 ---
 
@@ -43,7 +45,7 @@
 <p align="center">
   <a href="https://github.com/reqiler">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=reqiler&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=reqiler&layout=compact&langs_count=8&hide_border=true"
       alt="Top Languages"
     />
   </a>
