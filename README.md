@@ -1,36 +1,55 @@
+<h1 align="center">Hi there 👋</h1>
 
-
-## Hi there 👋
 <div align="center">
-<p><img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="70%"  alt="" fetchpriority="high" style="max-width: 833px;"></p>
+  <p>
+    <img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="70%" alt=""/>
+  </p>
 </div>
 
-<h2>⚡About Me</h2>
+---
+
+## ⚡ About Me
+
 <p>I am currently a student at the Faculty of Information Technology.</p>
+
 <ul>
   <li>Ctrl+C/Ctrl+V</li>
 </ul>
 
-<h1>
-<h4>COM</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali" />
-</a>
-</h1>
+---
 
-<h1>
-<h4>💬Other</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,ae,figma" />
-</a>
-</h1>
+## 🖥️ COM
 
-<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali" />
+  </a>
+</p>
 
- ### Badges
-<a href="https://github.com/reqiler" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reqiler&langs_count=15&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<h1>
+---
 
+## 💬 Other
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,ai,ps,ae,figma" />
+  </a>
+</p>
+
+---
+
+## 🏷 Badges
+
+<p align="center">
+  <a href="https://github.com/reqiler">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=reqiler&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+---
 
 <!--
 **reqiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,4 +65,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
