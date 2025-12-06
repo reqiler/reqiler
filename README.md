@@ -14,12 +14,12 @@ I am currently a student at the Faculty of Information Technology.
 
 ---
 
-## 🖥️ COM
+## 🖥️ Dev
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali"
+      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali,androidstudio,cloudflare,dart,deno,flutter,netlify,nextjs,npm,postgresm,react,replit,stackoverflow,tailwind,ts,ubuntu,vercel"
       alt="Tech Stack"
     />
   </a>
