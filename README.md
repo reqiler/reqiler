@@ -8,7 +8,7 @@
 
 ## ⚡ About Me
 
-I am currently a student at the Faculty of Information Technology.
+I am currently a student at the Department of Information Technology.
 
 - Ctrl+C/Ctrl+V
 
