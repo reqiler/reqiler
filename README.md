@@ -18,14 +18,20 @@ I am currently a student at the Department of Information Technology.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,express,c,java,python,lua,postman,powershell,kali,androidstudio"
-      alt="Tech Stack"
-    />
-    <img
-      src="https://skillicons.dev/icons?i=cloudflare,dart,deno,flutter,netlify,nextjs,npm,react,replit,stackoverflow,tailwind,ts,ubuntu,vercel"
-      alt="Tech Stack"
-    />
+    <!-- BASE (พื้นฐานสุด/ใช้บ่อย) -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,svg,bootstrap,tailwind,vscode,npm,stackoverflow,replit" />
+    <br/>
+    <!-- ชั้น 2 (เริ่มเป็นระบบขึ้น) -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,ts,react,nextjs,vite,svelte" />
+    <br/>
+    <!-- ชั้น 3 (DB + Cloud/Deploy + API tool) -->
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp,cloudflare,netlify,vercel,postman" />
+    <br/>
+    <!-- ชั้น 4 (ภาษาหนักขึ้น + OS/Automation) -->
+    <img src="https://skillicons.dev/icons?i=java,c,lua,powershell,linux,ubuntu,windows" />
+    <br/>
+    <!-- TOP (เฉพาะทาง/ยากขึ้น/สายมือถือ+security) -->
+    <img src="https://skillicons.dev/icons?i=dart,flutter,deno,androidstudio,kali" />
   </a>
 </div>
 
