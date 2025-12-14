@@ -18,22 +18,26 @@ I am currently a student at the Department of Information Technology.
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- TOP (เฉพาะทาง / ยากสุด) -->
+    <!-- TOP (security) -->
     <img src="https://skillicons.dev/icons?i=kali" />
     <br/>
-    <!-- ชั้น 4 -->
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,deno" />
+    <!-- TOP (เฉพาะทาง/ยากขึ้น/สายมือถือ) -->
+    <img src="https://skillicons.dev/icons?i=dart,flutter,deno,androidstudio" />
     <br/>
-    <!-- ชั้น 3 -->
+    <!-- ชั้น 4 (ภาษาหนักขึ้น + OS/Automation) -->
     <img src="https://skillicons.dev/icons?i=java,c,lua,powershell,linux,ubuntu,windows" />
     <br/>
-    <!-- ชั้น 2 -->
+    <!-- ชั้น 3 (DB + Cloud/Deploy + API tool) -->
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp,cloudflare,netlify,vercel,postman" />
     <br/>
-    <!-- ชั้น 1 (ฐาน / พื้นฐานสุด) -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,svg,bootstrap,tailwind,npm,vscode,react,nextjs,vite,svelte,nodejs,express,php,python,ts,stackoverflow,replit" />
+    <!-- ชั้น 2 (เริ่มเป็นระบบขึ้น) -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,ts,react,nextjs,vite,svelte" />
+    <br/>
+    <!-- BASE (พื้นฐานสุด/ใช้บ่อย) -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,svg,bootstrap,tailwind,vscode,npm,stackoverflow,replit" />
   </a>
 </div>
+
 
 
 ---
